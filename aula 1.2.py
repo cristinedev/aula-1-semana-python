@@ -51,3 +51,4 @@ for linha in tabela.index:
     pyautogui.scroll(5000)
     # Passo 5: Repetir o processo de cadastro até o fim
     #finalizado
+    encerrando projeto 
