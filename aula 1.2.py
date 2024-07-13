@@ -50,3 +50,4 @@ for linha in tabela.index:
     # dar scroll de tudo pra cima
     pyautogui.scroll(5000)
     # Passo 5: Repetir o processo de cadastro até o fim
+    #finalizado
